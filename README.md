@@ -12,7 +12,7 @@
 
 ## 💻 Projeto
 
-Este projeto foi idealizado com o objetivo de aprimorar minha expertise em HTML, CSS e Principalmente com GRID, através do suporte e recursos fornecidos pela plataforma Rockeseat.
+Este projeto foi idealizado com o objetivo de aprimorar minha expertise em HTML CSS e Principalmente com GRID, através do suporte e recursos fornecidos pela plataforma Rockeseat.
 
 - [Acesse o projeto](https://blog-de-gatos-one.vercel.app/)
 
